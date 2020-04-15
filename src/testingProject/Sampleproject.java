@@ -13,7 +13,7 @@ public class Sampleproject {
 		
 		System.out.println("Krishkavi");
 		
-		System.out.println("PugalBhuvana");
+		System.out.println("Pugal Bhuvana");
 
 
 
