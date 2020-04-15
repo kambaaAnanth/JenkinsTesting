@@ -14,6 +14,9 @@ public class Sampleproject {
 		System.out.println("Krishkavi");
 		
 		System.out.println("Pugal Bhuvana");
+		
+		System.out.println("PugalBhuvana");
+
 
 
 
